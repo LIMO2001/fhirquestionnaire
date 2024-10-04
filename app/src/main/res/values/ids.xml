@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="firstName" type="id"/>
+    <item name="middleName" type="id"/>
+    <item name="lastName" type="id"/>
+    <item name="age" type="id"/>
+    <item name="dob" type="id"/>
+    <item name="genderGroup" type="id"/>
+    <item name="adverseEffect" type="id"/>
+    <item name="submitBtn" type="id"/>
+    <item name="vaccineSpinner" type="id"/>
+    <item name="female" type="id"/>
+    <item name="male" type="id"/>
+</resources>
